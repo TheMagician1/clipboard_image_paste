@@ -11,7 +11,7 @@
 #*******************************************************************************
 
 module ClipboardImagePaste
-  class Hooks  < Redmine::Hook::ViewListener
+  class Hooks < Redmine::Hook::ViewListener
 
     # Add stylesheets and javascripts links to all pages
     # (there's no way to add them on specific existing page)
