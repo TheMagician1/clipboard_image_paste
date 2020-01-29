@@ -1,0 +1,15 @@
+# Dutch strings go here
+nl:
+  cbp_txt_add_image      : 'Voeg plaatje van het klembord toe'
+  cbp_txt_crop_box       : 'crop box:  x={1}  y={2}  breedte={3}  hoogte={4}'
+  cbp_txt_print          : 'Gebruik de PrintScreen toets en dan Ctrl+V.'
+  cbp_txt_select         : 'Gebruik de muis om specifieke delen van het plaatje te selecteren.'
+  cbp_txt_deselect       : 'Klik buiten de selectie om te deselecteren.'
+  cbp_txt_empty_cb       : 'Het klembord is leeg. Probeer de PrintScreen toets nog een keer.'
+  cbp_txt_no_image_cb    : 'Geen plaatje gevonden op het klembord. Probeer de PrintScreen toets nog een keer.'
+  cbp_txt_no_image_pst   : 'Nog geen plaatje geplakt. Plak er eerst een.'
+  cbp_txt_too_many_files : 'Kan niet nog een nieuw plaatje toevoegen. Maximum aantal bijlagen voor één update is gelimiteerd tot %{max_attachments}.'
+  cbp_txt_wrong_browser  : 'Uw huidige browser kan geen plaatjes plakken. Gebruik Mozilla Firefox ver. >= %{min_firefox_ver}, Google Chrome ver. >= %{min_chrome_ver} of Internet Explorer ver. >= %{min_ie_ver}.'
+  cbp_txt_btn_ok         : 'Ok'
+  cbp_txt_btn_cancel     : 'Annuleren'
+  cbp_txt_copy_link      : 'Kopieer een link naar het plaatje of de miniatuur'
